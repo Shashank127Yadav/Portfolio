@@ -359,7 +359,7 @@ export const projects = [
     description:
       "Built a dynamic React-based movie search application integrated with the OMDB API, providing users providing with detailed information on films and TV shows. The project focused on creating a highly responsive user interface with advanced features for smooth navigation.",
     image:
-      "https://raw.githubusercontent.com/Shashank127Yadav/ShashankPortfolio/main/Portfolio-master/src/utils/movierecomm.png",
+      "https://github.com/Shashank127Yadav/Portfolio/blob/main/src/utils/StreamSavy.png?raw=true",
     tags: ["Javascript", "HTML", "CSS", "Reactjs"],
     category: "web app",
     github: "https://github.com/Shashank127Yadav/streamSavy",
@@ -372,7 +372,7 @@ export const projects = [
     description:
       "Created a web app using JavaScript for online banking. The app allows users to log in, view transactions, transfer money, request loans, and calculate interest. It also features a display of the latest transactions and a session timer for security.",
     image:
-      "https://raw.githubusercontent.com/Shashank127Yadav/ShashankPortfolio/main/Portfolio-master/src/utils/pig%202024-03-30%20-%2011-32-51.png",
+      "https://github.com/Shashank127Yadav/Portfolio/blob/main/src/utils/BudgetEase.png?raw=true",
     tags: ["JavaScript", "HTML", "CSS"],
     category: "web app",
     github: "https://github.com/Shashank127Yadav/BudgetEase",
