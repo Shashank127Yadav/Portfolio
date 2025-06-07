@@ -346,7 +346,7 @@ export const projects = [
     description:
       "A developer connecting platform that connects programmers based on their needs It provides features like user account creation, sign-in, edit profile, profile view and sending. connection requests. Developers can accept or reject requests and interact with each other.",
     image:
-      "https://github.com/Shashank127Yadav/ShashankPortfolio/blob/main/Portfolio-master/src/utils/Screenshot%20Capture%20-%202024-03-30%20-%2011-42-32.png?raw=true",
+      "https://github.com/Shashank127Yadav/Portfolio/blob/main/src/utils/Devfriends.png?raw=true",
     tags: ["JavaScript", "HTML", "CSS", "Reactjs", "Nodejs"],
     category: "web app",
     github: "https://github.com/Shashank127Yadav/DevFriends",
